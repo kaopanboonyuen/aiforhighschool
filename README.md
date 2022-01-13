@@ -2,7 +2,7 @@
 
 AI for High School Students: Designed for 9th to 12th Grade
 
-![alt text](https://github.com/kaopanboonyuen/AIforHighSchool/raw/main/files/cover1.jpeg "join ds")
+![alt text](https://github.com/kaopanboonyuen/AIforHighSchool/raw/main/files/cover3.png "join ds")
 
 ## Short links for exercises:
 
