@@ -14,5 +14,7 @@ AI for High School Students: Designed for 9th to 12th Grade
 
 4. Pandas with Youtube stat data: https://colab.research.google.com/github/kaopanboonyuen/AIforHighSchool/blob/main/code/AI004_Pandas_(YoutubeStatsData).ipynb
 
+5. Supervised Learning: https://colab.research.google.com/github/kaopanboonyuen/AIforHighSchool/blob/main/code/AI005_SL.ipynb
+
 ** Updated python codes/notebooks will be posted here shortly before each lecture.
 
