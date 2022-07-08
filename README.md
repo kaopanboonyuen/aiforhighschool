@@ -1,4 +1,6 @@
-# AI for High School
+# AI for High School 2022
+
+[![Support-Ukraine](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/Support-Ukraine-FFD500.svg)](https://supportukrainenow.org/)
 
 AI for High School Students: Designed for 9th to 12th Grade
 
@@ -6,15 +8,23 @@ AI for High School Students: Designed for 9th to 12th Grade
 
 ## Short links for exercises:
 
-1. Python: https://colab.research.google.com/github/kaopanboonyuen/AIforHighSchool/blob/main/code/AI001_BasicPython.ipynb
+### Week1: Computer Vision Overview
 
-2. Numpy: https://colab.research.google.com/github/kaopanboonyuen/AIforHighSchool/blob/main/code/AI002_LinearAlgebra_with_Python_NumPy_2019.ipynb
+Slide:
 
-3. Pandas: https://colab.research.google.com/github/kaopanboonyuen/AIforHighSchool/blob/main/code/AI003_DataPrep_2022.ipynb
+Code:
 
-4. Pandas with Youtube stat data: https://colab.research.google.com/github/kaopanboonyuen/AIforHighSchool/blob/main/code/AI004_Pandas_(YoutubeStatsData).ipynb
+1. Python Recap: [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/kaopanboonyuen/AIforHighSchool/blob/main/code/S2/Week1/week1_2_tensorqs_tutorial.ipynb)
 
-5. Supervised Learning: https://colab.research.google.com/github/kaopanboonyuen/AIforHighSchool/blob/main/code/AI005_SL.ipynb
+2. Tensor (PyTorch): [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/kaopanboonyuen/AIforHighSchool/blob/main/code/S2/Week1/week1_1_colab_tutorial_07062022.ipynb)
+
+3. Data Loader: [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/kaopanboonyuen/AIforHighSchool/blob/main/code/S2/Week1/week1_3_data_tutorial.ipynb)
+
+4. Build Neural Network (NN) Model: [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/kaopanboonyuen/AIforHighSchool/blob/main/code/S2/Week1/week1_4_buildmodel_tutorial.ipynb)
+
+5. Cifar10: [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/kaopanboonyuen/AIforHighSchool/blob/main/code/S2/Week1/week1_5_cifar10_tutorial_nn_version.ipynb)
+
+6. Fashion MNIST: [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/kaopanboonyuen/AIforHighSchool/blob/main/code/S2/Week1/week1_6_fsmnist_tutorial_nn_version_assignment.ipynb)
 
 ** Updated python codes/notebooks will be posted here shortly before each lecture.
 
