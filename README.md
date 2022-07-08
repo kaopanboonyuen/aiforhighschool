@@ -8,6 +8,8 @@ AI for High School Students: Designed for 9th to 12th Grade
 
 ## Short links for exercises:
 
+### Course Syllabus: https://github.com/kaopanboonyuen/AIforHighSchool/raw/main/slides/AI_Course_Syllabus_2022.pdf
+
 ### Week1: Computer Vision Overview
 
 - Slide: https://github.com/kaopanboonyuen/AIforHighSchool/tree/main/slides
