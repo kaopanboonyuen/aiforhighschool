@@ -10,9 +10,9 @@ AI for High School Students: Designed for 9th to 12th Grade
 
 ### Week1: Computer Vision Overview
 
-Slide:
+- Slide: https://github.com/kaopanboonyuen/AIforHighSchool/tree/main/slides
 
-Code:
+- Code:
 
 1. Python Recap: [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/kaopanboonyuen/AIforHighSchool/blob/main/code/S2/Week1/week1_2_tensorqs_tutorial.ipynb)
 
