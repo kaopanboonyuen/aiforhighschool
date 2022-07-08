@@ -28,3 +28,13 @@ AI for High School Students: Designed for 9th to 12th Grade
 
 ** Updated python codes/notebooks will be posted here shortly before each lecture.
 
+![](https://github.com/kaopanboonyuen/AIforHighSchool/raw/main/slides/lecture_1_1_intro.pdf)
+
+Reference:
+
+- 1. http://cs231n.stanford.edu/
+- 2. https://stanford.edu/~shervine/
+- 3. https://pytorch.org/tutorials/
+- 4. https://profiles.stanford.edu/fei-fei-li
+- 5. https://www.kaggle.com/code
+
