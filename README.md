@@ -28,7 +28,8 @@ AI for High School Students: Designed for 9th to 12th Grade
 
 ** Updated python codes/notebooks will be posted here shortly before each lecture.
 
-![](https://github.com/kaopanboonyuen/AIforHighSchool/raw/main/slides/lecture_1_1_intro.pdf)
+![](https://github.com/kaopanboonyuen/AIforHighSchool/raw/main/img/nn_1.gif)
+![](https://github.com/kaopanboonyuen/AIforHighSchool/raw/main/img/nn_2.gif)
 
 Reference:
 
