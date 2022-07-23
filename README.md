@@ -10,11 +10,11 @@ AI for High School Students: Designed for 9th to 12th Grade
 
 - Course Syllabus: https://github.com/kaopanboonyuen/AIforHighSchool/blob/main/slides/AI_Course_Syllabus_2022.pdf
 
-### Week1: Computer Vision Overview
-
 - Slide: https://github.com/kaopanboonyuen/AIforHighSchool/tree/main/slides
 
 - Code:
+
+### Week1: Computer Vision Overview
 
 1. Python Recap: [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/kaopanboonyuen/AIforHighSchool/blob/main/code/S2/Week1/week1_1_colab_tutorial_07062022.ipynb)
 
@@ -27,6 +27,14 @@ AI for High School Students: Designed for 9th to 12th Grade
 5. Cifar10: [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/kaopanboonyuen/AIforHighSchool/blob/main/code/S2/Week1/week1_5_cifar10_tutorial_nn_version.ipynb)
 
 6. (Assignment) Fashion MNIST: [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/kaopanboonyuen/AIforHighSchool/blob/main/code/S2/Week1/week1_6_fsmnist_tutorial_nn_version_assignment.ipynb)
+
+### Week2: Intro to Numpy, Pandas
+
+1. Numpy: [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/kaopanboonyuen/2110446_DataScience_2021s2/blob/main/code/week1_numpy_pandas/Numpy.ipynb)
+
+2. Pandas: [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/kaopanboonyuen/2110446_DataScience_2021s2/blob/main/code/week1_numpy_pandas/Pandas.ipynb)
+
+3. Pandas with Youtube stat data: [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/kaopanboonyuen/2110446_DataScience_2021s2/blob/main/code/week1_numpy_pandas/Pandas_(Data_Set_Trending_YouTube_Video_Statistics).ipynb)
 
 ** Updated python codes/notebooks will be posted here shortly before each lecture.
 
