@@ -36,7 +36,7 @@ AI for High School Students: Designed for 9th to 12th Grade
 
 3. Pandas with Youtube stat data: [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/kaopanboonyuen/2110446_DataScience_2021s2/blob/main/code/week1_numpy_pandas/Pandas_(Data_Set_Trending_YouTube_Video_Statistics).ipynb)
 
-### Week2: Intro to NLP
+### Week3: Intro to NLP
 
 1. Basic String Processing: [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/kaopanboonyuen/AIforHighSchool/blob/main/code/S2/Week3/week3_1_basic_string_processing.ipynb)
 
