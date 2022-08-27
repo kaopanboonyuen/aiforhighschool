@@ -42,7 +42,7 @@ AI for High School Students: Designed for 9th to 12th Grade
 
 2. Regular Expression: [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/kaopanboonyuen/AIforHighSchool/blob/main/code/S2/Week3/week3_2_regular_expression.ipynb)
 
-### Week4: Intro to NLP: Back to BaicPython (String, List, Indexing, Slicing)
+### Week4: Intro to NLP: Back to BaicPython (String, List, Indexing, Slicing): [![Open In Colab](https://colab.research.google.com/github/kaopanboonyuen/AIforHighSchool/blob/main/code/S2/Week4/week4_1_basic_variables_and_indexing.ipynb)
 
 1. Basic Variables and Indexing: 
 
@@ -50,7 +50,6 @@ AI for High School Students: Designed for 9th to 12th Grade
 
 ![](https://github.com/kaopanboonyuen/AIforHighSchool/raw/main/img/nn_1.gif)
 ![](https://github.com/kaopanboonyuen/AIforHighSchool/raw/main/img/nn_2.gif)
-
 
 
 Reference:
