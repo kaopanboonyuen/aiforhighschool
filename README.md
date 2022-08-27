@@ -47,6 +47,10 @@ AI for High School Students: Designed for 9th to 12th Grade
 ![](https://github.com/kaopanboonyuen/AIforHighSchool/raw/main/img/nn_1.gif)
 ![](https://github.com/kaopanboonyuen/AIforHighSchool/raw/main/img/nn_2.gif)
 
+### Week3: Intro to NLP: Back to BaicPython (String, List, Indexing, Slicing)
+
+1. Basic Variables and Indexing: 
+
 Reference:
 
 - 1. http://cs231n.stanford.edu/
