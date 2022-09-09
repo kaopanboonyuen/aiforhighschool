@@ -46,6 +46,12 @@ AI for High School Students: Designed for 9th to 12th Grade
 
 1. Basic Variables and Indexing: [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/kaopanboonyuen/AIforHighSchool/blob/main/code/S2/Week4/week4_1_basic_variables_and_indexing.ipynb)
 
+### Week5: Basic Python (Statement Loop and Function)
+
+1. Statement Loop: [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/kaopanboonyuen/AIforHighSchool/blob/main/code/S2/Week5/week5_1_statement_loop.ipynb)
+
+2. Function: [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/kaopanboonyuen/AIforHighSchool/blob/main/code/S2/Week5/week5_2_functions.ipynb)
+
 ** Updated python codes/notebooks will be posted here shortly before each lecture.
 
 ![](https://github.com/kaopanboonyuen/AIforHighSchool/raw/main/img/nn_1.gif)
