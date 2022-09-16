@@ -60,6 +60,8 @@ AI for High School Students: Designed for 9th to 12th Grade
 
 ### FINAL PROJECT:
 
+![](https://github.com/kaopanboonyuen/AIforHighSchool/raw/main/img/covid19.gif)
+
 - COVID-19 DATASET: [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/kaopanboonyuen/aiforhighschool/raw/main/code/S2/Senior-High-School-Project-2022.ipynb).ipynb)
 
 ** Updated python codes/notebooks will be posted here shortly before each lecture.
