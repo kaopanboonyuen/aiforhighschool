@@ -52,6 +52,16 @@ AI for High School Students: Designed for 9th to 12th Grade
 
 2. Function: [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/kaopanboonyuen/AIforHighSchool/blob/main/code/S2/Week5/week5_2_functions.ipynb)
 
+### Week6: Pandas and Exploratory Data Analysis
+
+1. Pandas: [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/kaopanboonyuen/2110446_DataScience_2021s2/blob/main/code/week1_numpy_pandas/Pandas.ipynb)
+
+2. Pandas with Youtube stat data: [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/kaopanboonyuen/2110446_DataScience_2021s2/blob/main/code/week1_numpy_pandas/Pandas_(Data_Set_Trending_YouTube_Video_Statistics).ipynb)
+
+### FINAL PROJECT:
+
+- COVID-19 DATASET: [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/kaopanboonyuen/aiforhighschool/raw/main/code/S2/Senior-High-School-Project-2022.ipynb).ipynb)
+
 ** Updated python codes/notebooks will be posted here shortly before each lecture.
 
 ![](https://github.com/kaopanboonyuen/AIforHighSchool/raw/main/img/nn_1.gif)
