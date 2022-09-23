@@ -60,11 +60,11 @@ AI for High School Students: Designed for 9th to 12th Grade
 
 ### Week7: Regualar Expression
 
-1. Regular Expression: [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/kaopanboonyuen/2110446_DataScience_2021s2/blob/main/code/S2/Week7/week7_1_regular_expression.ipynb)
+1. Regular Expression: [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/kaopanboonyuen/AIforHighSchool/blob/main/code/S2/Week7/week7_1_regular_expression.ipynb)
 
-2. Basic Web Scraping [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/kaopanboonyuen/2110446_DataScience_2021s2/blob/main/code/S2/Week7/Week7_2_BasicWebScraping.ipynb)
+2. Basic Web Scraping [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/kaopanboonyuen/AIforHighSchool/blob/main/code/S2/Week7/Week7_2_BasicWebScraping.ipynb)
 
-3. Sentiment Analysis [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/kaopanboonyuen/2110446_DataScience_2021s2/blob/main/code/S2/Week7/week7_3_SentimentAnalysis.ipynb)
+3. Sentiment Analysis [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/kaopanboonyuen/AIforHighSchool/blob/main/code/S2/Week7/week7_3_SentimentAnalysis.ipynb)
 
 ### FINAL PROJECT:
 
