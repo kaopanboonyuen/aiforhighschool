@@ -89,4 +89,5 @@ Reference:
 - 3. https://pytorch.org/tutorials/
 - 4. https://profiles.stanford.edu/fei-fei-li
 - 5. https://www.kaggle.com/code
+- 6. https://www.kaggle.com/datasets/vijaygiitk/multiclass-weather-dataset
 
