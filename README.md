@@ -66,9 +66,14 @@ AI for High School Students: Designed for 9th to 12th Grade
 
 3. Sentiment Analysis [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/kaopanboonyuen/AIforHighSchool/blob/main/code/S2/Week7/week7_3_SentimentAnalysis.ipynb)
 
-### Week8:Image Classification with A Convolutional Neural Network (ConvNet/CNN)
+### Week8: Image Classification with A Convolutional Neural Network (ConvNet/CNN)
+
+* Teachable Machine: https://teachablemachine.withgoogle.com/
 
 1. Weather Data Set: https://drive.google.com/file/d/1rAs5G3f_aXmHECG-qDsClhKyIpe9zDPE/view?usp=sharing
+
+2. Image Classification Code: https://colab.research.google.com/drive/1EYp-0iqGMVOIcXJt9Fqp7D2WNNbixmEO?usp=sharing 
+
 
 ### FINAL PROJECT:
 
