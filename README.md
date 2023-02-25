@@ -18,7 +18,7 @@ AI for High School Students: Designed for 9th to 12th Grade
 
 1. Python Recap: [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/kaopanboonyuen/AIforHighSchool/blob/main/code/S2/Week1/week1_1_colab_tutorial_07062022.ipynb)
 
-2. Tensor (PyTorch): [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/kaopanboonyuen/AIforHighSchool/blob/main/code/S2/Week1/week1_1_colab_tutorial_07062022.ipynb)
+2. Tensor (PyTorch): [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/kaopanboonyuen/AIforHighSchool/blob/main/code/S2/Week1/week1_2_tensorqs_tutorial.ipynb)
 
 3. Data Loader: [![Open In Colab](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/kaopanboonyuen/AIforHighSchool/blob/main/code/S2/Week1/week1_3_data_tutorial.ipynb)
 
